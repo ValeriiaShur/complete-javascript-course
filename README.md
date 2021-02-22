@@ -48,7 +48,7 @@ Starter (.js) files keep my own notes, solved tasks, assignments, and challenges
 
 
 ### 05-Guess-My-Number
-Demo app: [05-Guess-My-Number](https://valeriiashur.github.io/complete-javascript-course/05-Guess-My-Number/starter/index.html)
+- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `Demo app:` [05-Guess-My-Number](https://valeriiashur.github.io/complete-javascript-course/05-Guess-My-Number/starter/index.html)
 - DOM Manipulation
 - Handling Click Events
 - Refactoring the Code
