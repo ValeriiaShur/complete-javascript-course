@@ -8,7 +8,8 @@ Starter (.js) files keep my own notes, solved tasks, assignments, and challenges
 
 ## Course Content
 
-### [01-Fundamentals-Part-1](https://valeriiashur.github.io/complete-javascript-course/01-Fundamentals-Part-1/starter/index.html)
+### 01-Fundamentals-Part-1
+ - Demo notes: [01-Fundamentals-Part-1](https://valeriiashur.github.io/complete-javascript-course/01-Fundamentals-Part-1/starter/index.html)
  - Values and Variables
  - Data Types
  - let, const, and var
@@ -21,7 +22,8 @@ Starter (.js) files keep my own notes, solved tasks, assignments, and challenges
  - Expressions
 
 
-### [02-Fundamentals-Part-2](https://valeriiashur.github.io/complete-javascript-course/02-Fundamentals-Part-2/starter/index.html)
+### 02-Fundamentals-Part-2
+- Demo notes: [02-Fundamentals-Part-2](https://valeriiashur.github.io/complete-javascript-course/02-Fundamentals-Part-2/starter/index.html)
 - Functions
 - Function Declarations vs. Expressions
 - Arrow Functions
@@ -31,37 +33,43 @@ Starter (.js) files keep my own notes, solved tasks, assignments, and challenges
 - Iteration: The for and while Loops
 
 
-### [03-Developer-Skills](https://github.com/ValeriiaShur/complete-javascript-course/blob/master/03-Developer-Skills/starter/index.html)
+### 03-Developer-Skills
+- Demo notes: [03-Developer-Skills](https://github.com/ValeriiaShur/complete-javascript-course/blob/master/03-Developer-Skills/starter/index.html)
 - Prettier, VS Code, Node.js
 - Setting Up s Dev Environment
 - Debugging, Console, Breakpoints
 
 
-### [04-HTML-CSS/final](https://valeriiashur.github.io/complete-javascript-course/04-HTML-CSS/final/index.html)
+### 04-HTML-CSS/final
+- Demo notes: [04-HTML-CSS/final](https://valeriiashur.github.io/complete-javascript-course/04-HTML-CSS/final/index.html)
 - Basic HTML Structure and Elements
 - Attributes, Classes and IDs
 - CSS
 
 
-### [Q5: 05-Guess-My-Number](https://valeriiashur.github.io/complete-javascript-course/05-Guess-My-Number/starter/index.html)
+### 05-Guess-My-Number
+Demo app: [05-Guess-My-Number](https://valeriiashur.github.io/complete-javascript-course/05-Guess-My-Number/starter/index.html)
 - DOM Manipulation
 - Handling Click Events
 - Refactoring the Code
 
 
-### [06-Modal](https://valeriiashur.github.io/complete-javascript-course/06-Modal/starter/index.html)
+### 06-Modal
+- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `Demo app:` [06-Modal](https://valeriiashur.github.io/complete-javascript-course/06-Modal/starter/index.html)
 - Classes
 - Handlink Keypress Event
 
 
-### [07-Pig-Game](https://valeriiashur.github.io/complete-javascript-course/07-Pig-Game/starter/index.html)
+### 07-Pig-Game
+- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `Demo app:` [07-Pig-Game](https://valeriiashur.github.io/complete-javascript-course/07-Pig-Game/starter/index.html)
 - Implementing gained knowledge by building a pig game
 - Two players
 - The goal is to gain 21 score
 - When the dice throws 1, the player's score is reset to 0 and the turn goes to another player
 
 
-### [08-Behind-the-Scenes](https://valeriiashur.github.io/complete-javascript-course/08-Behind-the-Scenes/starter/index.html)
+### 08-Behind-the-Scenes
+- Demo notes: [08-Behind-the-Scenes](https://valeriiashur.github.io/complete-javascript-course/08-Behind-the-Scenes/starter/index.html)
 - The JavaScript Engine and Runtime
 - Execution Context and The Call Stack
 - Scope and The Scope Chain
@@ -71,7 +79,8 @@ Starter (.js) files keep my own notes, solved tasks, assignments, and challenges
 - Primitives vs. Objects (Primitive vs. Reference Types)
 
 
-### [09-Data-Structures-Operators](https://valeriiashur.github.io/complete-javascript-course/09-Data-Structures-Operators/starter/index.html)
+### 09-Data-Structures-Operators
+- Demo notes: [09-Data-Structures-Operators](https://valeriiashur.github.io/complete-javascript-course/09-Data-Structures-Operators/starter/index.html)
 - Destructuring Arrays and Objects
 - The Spread Operator (...)
 - Rest Pattern and Parameters
@@ -84,7 +93,8 @@ Starter (.js) files keep my own notes, solved tasks, assignments, and challenges
 - Strings and their Methods
 
 
-### [10-Functions](https://valeriiashur.github.io/complete-javascript-course/10-Functions/starter/index.html)
+### 10-Functions
+- Demo notes: [10-Functions](https://valeriiashur.github.io/complete-javascript-course/10-Functions/starter/index.html)
 - Default Parameters
 - First-Class and Higher-Order Functions
 - Functions Accepting Callback Functions
@@ -95,6 +105,7 @@ Starter (.js) files keep my own notes, solved tasks, assignments, and challenges
 
 
 ### 11-Arrays-Bankist
+- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `Demo app:`
 - Arrays. Fake "log in" with user `js` and PIN `1111`
 
 
