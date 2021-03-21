@@ -105,14 +105,20 @@ Starter (.js) files keep my own notes, solved tasks, assignments, and challenges
 
 
 ### 11-Arrays-Bankist
-- - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `Demo app:` [Bankist app](https://valeriiashur.github.io/complete-javascript-course/11-Arrays-Bankist/starter/index.html)
+- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `Demo app:` [Bankist app](https://valeriiashur.github.io/complete-javascript-course/11-Arrays-Bankist/starter/index.html)
 - Login the app with user `js` and PIN `1111`, or user `jd` and PIN `2222`, or user `stw` and PIN `3333`, or user `ss` and PIN `4444`
 - The app shows current balance and basic statistics, transfers money, requests loans, closes accounts, sorts transactions 
 - 23 array methods: forEach, map, filter, reduce, filter, find, some, every, flat, flatMap, and others.
 
 
 ### 12-Numbers-Dates-Timers-Bankist
-- Numbers, Dates, Timers. Fake "log in" with user `js` and PIN `1111`
+- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `Demo app:` [Bankist app](https://valeriiashur.github.io/complete-javascript-course/12-Numbers-Dates-Timers-Bankist/starter/index.html)
+- Login the app with user `js` and PIN `1111`, or user `jd` and PIN `2222`
+- This is an enhanced version of the Bankist app from section 11
+- Converting, Checking, Rounding numbers
+- The remainder operator
+- BigInt, Dates, Intl (Internationalization)
+- Timers: setTimeOut and setInterval
 
 
 ### 13-Advanced-DOM-Bankist
