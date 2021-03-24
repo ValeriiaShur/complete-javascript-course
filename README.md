@@ -122,7 +122,14 @@ Starter (.js) files keep my own notes, solved tasks, assignments, and challenges
 
 
 ### 13-Advanced-DOM-Bankist
+- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `Demo app:` [Bankist website](https://valeriiashur.github.io/complete-javascript-course/13-Advanced-DOM-Bankist/starter/index.html)
 - Advanced DOM and Events
+- Styles, Attributes, and Classes
+- Smooth Scrolling, Page Navigation, Tabbed Component
+- Event Propagation: Bubbling and Capturing
+- The Scroll Events, Lazy Loading
+- Slider Component
+- Efficient Script Loading: defer and async
 
 
 ### 14-OOP
