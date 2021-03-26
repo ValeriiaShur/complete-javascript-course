@@ -133,7 +133,16 @@ Starter (.js) files keep my own notes, solved tasks, assignments, and challenges
 
 
 ### 14-OOP
-
+- Demo notes: [14-OOP](https://valeriiashur.github.io/complete-javascript-course/14-OOP/starter/index.html)
+- Object-Oriented Programming theory, Abstraction, Encapsulation, Inheritance, and Polymorphism
+- Constructor functions and the new Operator
+- Prototypes, Prototypal Inheritance, and the Prototype Chain
+- ES6 Classes
+- Setters, Getters, Static Methods
+- Object.create()
+- Inheritance between Classes
+- Encapsulation: Protected Properties and Methods, Private Class Fields and Methods
+- Chaining Methods
 
 ### 15-Mapty
 - OOP, Geolocation, Project planning
