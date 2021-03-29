@@ -168,9 +168,6 @@ class App {
 
       // Check if data is valid
       if (
-        // !Number.isFinite(distance) ||
-        // !Number.isFinite(duration) ||
-        // !Number.isFinite(cadence)
         !validInputs(distance, duration, cadence) ||
         !allPositive(distance, duration, cadence)
       )
@@ -285,9 +282,12 @@ class App {
 
     if (!workoutEl) return;
 
+    //console.log(this.#workouts);
     const workout = this.#workouts.find(
       work => work.id === workoutEl.dataset.id
     );
+
+    console.log(workout);
 
     this.#map.setView(workout.coords, this.#mapZoomLevel, {
       animate: true,
