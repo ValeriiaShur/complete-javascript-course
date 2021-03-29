@@ -145,7 +145,12 @@ Starter (.js) files keep my own notes, solved tasks, assignments, and challenges
 - Chaining Methods
 
 ### 15-Mapty
-- OOP, Geolocation, Project planning
+- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `Demo app:` [Map your workouts app](https://valeriiashur.github.io/complete-javascript-course/15-Mapty/starter/index.html)
+- Object-Oriented Programming project
+- Geolocation API
+- External Libraries (leaflet.js)
+- Project planning
+- Local Storage
 
 
 ### 16-Asynchronous
