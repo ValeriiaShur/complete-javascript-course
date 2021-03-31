@@ -154,7 +154,17 @@ Starter (.js) files keep my own notes, solved tasks, assignments, and challenges
 
 
 ### 16-Asynchronous
-
+- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `Demo app:` [Where am I?](https://valeriiashur.github.io/complete-javascript-course/16-Asynchronous/starter/index.html)
+- Asynchronous JavaScript, AJAX and APIs
+- Callback Hell, Promises, and Fetch API
+- Consuming, Chaining, Handling Rejected Promises
+- Throwing Errors Manually
+- Building a Simple Promise, Promisifying the Geolocation API
+- Consuming Promises with Async/Await
+- Error Handling with try{} catch()
+- Returning Values from Async Functions
+- Running Promises in Parallel
+- Promise Combinators: race, allSettled, and any
 
 ### 17-Modern-JS-Modules-Tooling
 
