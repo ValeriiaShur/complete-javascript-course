@@ -167,7 +167,13 @@ Starter (.js) files keep my own notes, solved tasks, assignments, and challenges
 - Promise Combinators: race, allSettled, and any
 
 ### 17-Modern-JS-Modules-Tooling
-
+- Demo notes: [17-Modern-JS-Modules-Tooling](https://valeriiashur.github.io/complete-javascript-course/17-Modern-JS-Modules-Tooling/starter/index.html)
+- An Overview of Modern JavaScript Development
+- Modules, Exporting and Importing, the Module Pattern, CommonJS Modules
+- Command Line, NPM, Bundling with Parcel
+- Configuring Babel and Polyfilling
+- Declarative and Functional JavaScript Principles
+- Writing Clean and Modern JavaScript, Fixing Bad Code Tasks 
 
 ### 18-forkify
 - Final advanced project
