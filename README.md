@@ -176,4 +176,15 @@ Starter (.js) files keep my own notes, solved tasks, assignments, and challenges
 - Writing Clean and Modern JavaScript, Fixing Bad Code Tasks 
 
 ### 18-forkify
-- Final advanced project
+- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `Demo app:` [Forkify](https://forkify-valeriiashur.netlify.app/)
+- Building a Modern Recipe application with custom recipe uploads
+- Project Planning
+- The MVC Architecture (Model-View-Controller)
+- Listening for load and hashchange Events
+- Event Handlers in MVC: Publisher-Subscriber Pattern
+- Bundling with Parcel
+
+### 19-setting-up-git-and-deployment
+- Deployment of the Forkify app (from section 18) with Netlify
+- Git and GitHub
+- Setting Up Continuous Integration with Netlify (the app link is in the section 18)
